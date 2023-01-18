@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Biggy ( @Biggy08 )
 - 👀 I’m interested in a lot of things,
-- 🌱 I’m currently learning python,
+- 🌱 I’m currently learning python,R and C.
 - 💞️ I’m looking to collaborate on porjects based on data science and machine learning.
 - 📫 How to reach me ? , You can contact me on discord ( Biggy#5978 ) as its what I use the most.
 
